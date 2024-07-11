@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lyphoenixx
 - 👀 I’m interested in game desing.
 - 🌱 I’m currently learning C# and Unity3D.
-- 📫 How to reach me, mail or instagram.
+- 📫 How to reach me, mail, Instagram and X.
 - ⚡ Fun fact: Designing a game is incredibly tiring, but the end result feels perfect.
 
 <!---
