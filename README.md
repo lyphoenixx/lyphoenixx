@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @lyphoenixx
-- 👀 I’m interested in game desing.
-- 🌱 I’m currently learning C# and Unity3D.
-- 📫 How to reach me, mail, Instagram or X.
-- ⚡ Fun fact: Designing the game is as beautiful as playing it.
+### Hi there, I'm Şerif! 👋
 
-<!---
-lyphoenixx/lyphoenixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate learner actively stepping into the world of software development. I enjoy solving problems and bringing ideas to life through code. 
+
+- 🌱 I’m currently focusing on **Python** to build practical applications, while also exploring **C# and Unity3D** for game design.
+- 🚀 I'm actively working on improving my coding logic and building my project portfolio.
+- 📫 How to reach me: [Email](mailto:serifsigirci1@gmail.com) | [X (@srfvrnl)](https://x.com/srfvrnl) | [Instagram (@srfvrnl)](https://instagram.com/srfvrnl)
+- ⚡ Fun fact: Designing a game is just as beautiful as playing it!
+
+---
